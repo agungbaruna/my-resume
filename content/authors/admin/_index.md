@@ -2,10 +2,10 @@
 bio: My research interests include climate modeling and climate data exploratory
 education:
   courses:
-  - course: M.Sc. in Applied Climatology
+  - course: M.Si. in Applied Climatology
     institution: Institut Pertanian Bogor
     year: 2021
-  - course: B.Sc. in Applied Meteorology
+  - course: S.Si. in Applied Meteorology
     institution: Institut Pertanian Bogor
     year: 2019
 email: "agung_baruna@apps.ipb.ac.id"
@@ -36,9 +36,9 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/absen
 superuser: true
-title: Agung Baruna Setiawan Noor
+title: I'm Agung, nice to meet You!
 ---
 
-I am a R&D staff in PT MPK which concentrated in climate study. I am working on analysis and forecast the climate datasets which can gain from climate model or observation. As assistant lecturer, I teach the technical analysis how to use computer software (R, NCL, and Python), specific for climate data processing.
+I was born on March 22, 1997 at Surabaya. I am a Research & Development staff at PT Mohairson Pawan Khatulistiwa which concentrated in climate study. I am working on analysis and forecast the climate datasets which can gain from climate model or observation. As assistant lecturer, I teach the technical analysis how to use computer software (R, NCL, and Python), specific for climate data processing.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

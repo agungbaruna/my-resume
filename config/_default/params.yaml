@@ -31,7 +31,7 @@ address:
 coordinates:
   latitude: '-6.5641493'
   longitude: '106.719846'
-appointment_url: 'https://calendly.com'
+appointment_url: 'https://calendly.com/agung_baruna/rconsult'
 contact_links:
   - icon: twitter
     icon_pack: fab
@@ -39,7 +39,7 @@ contact_links:
     link: 'https://twitter.com/agungbaruna'
   - icon: instagram
     icon_pack: fab
-    name: DM Me
+    name: Look my latest posts!
     link: 'https://instagram.com/agungbaruna'
 
 # Site header
